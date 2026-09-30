@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.payal.sankalpa",
+        "sha256_cert_fingerprints": ["3F:04:19:5C:5C:3B:C7:3A:A7:A5:5D:CE:D6:B5:70:00:EB:9B:EE:E6:10:F8:AF:80:A7:34:F0:30:6E:09:43:05"]
+      }
+    }]
